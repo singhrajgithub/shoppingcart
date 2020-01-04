@@ -1,0 +1,201 @@
+{
+  "bookstore": [
+    {
+      "id": 1,
+      "title": "I HAVE A NEW NAME",
+      "author": "HOSANNA",
+      "price": 1000,
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "title": "THE BOOK OF NAMES",
+      "author": "JILL GREGORY & KAREN",
+      "price": 1500,
+      "quantity": 10
+    },
+    {
+      "id": 3,
+      "title": "HARRY POTTER",
+      "author": "J.K ROWLING",
+      "price": 2500,
+      "quantity": 10
+    },
+    {
+      "id": 4,
+      "title": "HISTORY OF ANCIENT INDIA",
+      "author": "RAMASHANKAR TRIPATHI",
+      "price": 3000,
+      "quantity": 10
+    },
+    {
+      "id": 5,
+      "title": "BOOK WITH NO NAME",
+      "author": "ANONYMOUS",
+      "price": 500,
+      "quantity": 10
+    },
+    {
+      "id": 6,
+      "title": "THE BRAHMIN",
+      "author": "RAVI SHANKAR",
+      "price": 200,
+      "quantity": 10
+    },
+    {
+      "id": 7,
+      "title": "THE ROAD",
+      "author": "CORMAC MCCARTHY",
+      "price": 250,
+      "quantity": 10
+    },
+    {
+      "id": 8,
+      "title": "THE 5 AM CLUB",
+      "author": "ROBIN SHARMA",
+      "price": 855,
+      "quantity": 10
+    },
+    {
+      "id": 9,
+      "title": "THE HOBBIT",
+      "author": "J. R. R. Tolkien",
+      "price": 805,
+      "quantity": 20
+    },
+    {
+      "id": 10,
+      "title": "THE STRANGER",
+      "author": "ALBERT CAMUS",
+      "price": 205,
+      "quantity": 7
+    },
+    {
+      "id": 11,
+      "title": "A TALE OF TWO CITIES",
+      "author": "CHARLES DICKENS",
+      "price": 305,
+      "quantity": 2
+    },
+    {
+      "id": 12,
+      "title": "NORTHEN LIGHTS",
+      "author": "PHILLIP PULLMAN",
+      "price": 400,
+      "quantity": 3
+    },
+    {
+      "title": "WINGS OF FIRE",
+      "author": "ABDUL KALAM",
+      "price": "1500",
+      "quantity": "10",
+      "id": 13
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "id3",
+      "price": 500,
+      "quantity": 1,
+      "title": "BOOK WITH NO NAME",
+      "author": "ANONYMOUS",
+      "id": 11
+    },
+    {
+      "orderId": "id2",
+      "price": 3000,
+      "quantity": 1,
+      "title": "HISTORY OF ANCIENT INDIA",
+      "author": "RAMASHANKAR TRIPATHI",
+      "id": 12
+    },
+    {
+      "orderId": "id3",
+      "price": 2500,
+      "quantity": 1,
+      "title": "HARRY POTTER AND THE CRUISED CHILD",
+      "author": "J.K ROWLING",
+      "id": 13
+    },
+    {
+      "orderId": "id4",
+      "price": 500,
+      "quantity": 1,
+      "title": "BOOK WITH NO NAME",
+      "author": "ANONYMOUS",
+      "id": 14
+    },
+    {
+      "orderId": "id5",
+      "price": 1500,
+      "quantity": 1,
+      "title": "THE BOOK OF NAMES",
+      "author": "JILL GREGORY AND KAREN TINTORI",
+      "id": 15
+    },
+    {
+      "orderId": "id1",
+      "price": 1000,
+      "quantity": 1,
+      "title": "I HAVE A NEW NAME",
+      "author": "HOSANNA",
+      "id": 17
+    },
+    {
+      "orderId": "id1",
+      "price": 2500,
+      "quantity": 1,
+      "title": "HARRY POTTER",
+      "author": "J.K ROWLING",
+      "id": 18
+    },
+    {
+      "orderId": "id2",
+      "price": 200,
+      "quantity": 1,
+      "title": "THE BRAHMIN",
+      "author": "RAVI SHANKAR",
+      "id": 19
+    },
+    {
+      "orderId": "id1",
+      "price": 855,
+      "quantity": 1,
+      "title": "THE 5 AM CLUB",
+      "author": "ROBIN SHARMA",
+      "id": 20
+    },
+    {
+      "price": 250,
+      "quantity": 1,
+      "title": "THE ROAD",
+      "author": "CORMAC MCCARTHY",
+      "orderId": "id1",
+      "id": 21
+    },
+    {
+      "price": 250,
+      "quantity": 1,
+      "title": "THE ROAD",
+      "author": "CORMAC MCCARTHY",
+      "orderId": "id1",
+      "id": 22
+    },
+    {
+      "price": 855,
+      "quantity": 1,
+      "title": "THE 5 AM CLUB",
+      "author": "ROBIN SHARMA",
+      "orderId": "orderid1",
+      "id": 23
+    },
+    {
+      "orderId": "id1",
+      "price": 305,
+      "quantity": 1,
+      "title": "A TALE OF TWO CITIES",
+      "author": "CHARLES DICKENS",
+      "id": 24
+    }
+  ]
+}
