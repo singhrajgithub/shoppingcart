@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.search-row{
+  max-width: 800px;
+  background: aliceblue;
+  padding: 8px;
+  margin: auto;
+  margin-top: 8px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
